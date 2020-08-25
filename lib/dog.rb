@@ -13,7 +13,7 @@ class Dog
 end
     
     
-#     1.	class Person
+# 1.	class Person
 # 2.	 
 # 3.	def initialize(first_name, last_name)
 # 4.	@first_name = first_name
